@@ -45,6 +45,7 @@ position: relative;
     box-shadow: 0px -3px 2px 0px #FFF, 0px 4px 6px 0px rgba(0, 0, 0, 0.12), 0px 10px 10px 0px rgba(0, 0, 0, 0.12);
     position: absolute;
     margin-left: 12px;
+    cursor: pointer;
 }
 .home{
     color: #000;
